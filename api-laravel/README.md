@@ -26,3 +26,8 @@ Rota: /tarefas/{id}
 Método: DELETE
 Parâmetros: ID(obrigatório).
 Resposta esperada: Excluir a tarefa específica mencionada pelo ID.
+
+Vídeo: 
+
+https://github.com/lucasaito/ProjetoLaravel/assets/132960707/3f507e27-2f52-4fbe-a818-227b9d8de3b2
+
